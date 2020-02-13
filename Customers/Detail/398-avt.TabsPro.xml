@@ -7,7 +7,6 @@
     <cachemethod />
     <cachetime>0</cachetime>
     <color />
-    <containersrc />
     <displayprint>true</displayprint>
     <displaysyndicate>false</displaysyndicate>
     <displaytitle>true</displaytitle>
@@ -102,6 +101,12 @@
           &lt;ModuleOrder&gt;1&lt;/ModuleOrder&gt;
           &lt;DisplayTitle&gt;False&lt;/DisplayTitle&gt;
         &lt;/Module&gt;
+        &lt;Module&gt;
+          &lt;ModuleId&gt;397&lt;/ModuleId&gt;
+          &lt;ModuleTitle&gt;View Form&lt;/ModuleTitle&gt;
+          &lt;ModuleOrder&gt;1&lt;/ModuleOrder&gt;
+          &lt;DisplayTitle&gt;False&lt;/DisplayTitle&gt;
+        &lt;/Module&gt;
       &lt;/Modules&gt;
     &lt;/Tab&gt;
     &lt;Tab&gt;
@@ -123,6 +128,12 @@
         &lt;en-US&gt;Contacts&lt;/en-US&gt;
       &lt;/Localization&gt;
       &lt;Modules&gt;
+        &lt;Module&gt;
+          &lt;ModuleId&gt;405&lt;/ModuleId&gt;
+          &lt;ModuleTitle&gt;Contacts Listing&lt;/ModuleTitle&gt;
+          &lt;ModuleOrder&gt;3&lt;/ModuleOrder&gt;
+          &lt;DisplayTitle&gt;False&lt;/DisplayTitle&gt;
+        &lt;/Module&gt;
         &lt;Module&gt;
           &lt;ModuleId&gt;405&lt;/ModuleId&gt;
           &lt;ModuleTitle&gt;Contacts Listing&lt;/ModuleTitle&gt;
